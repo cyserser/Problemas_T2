@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d2606e9-04f3-493d-afbc-51d1da4b007f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iYsWVYMo8rpWpwqSVZ7CsNV3DI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\laragon\www\Problemas_T2" />
+      <recent name="E:\laragon\www\Problemas_T2\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.formulario1.html">
+    <configuration name="formulario1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:52784/Problemas_T2/formulario1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Problemas_T2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.formulario1.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d2606e9-04f3-493d-afbc-51d1da4b007f" name="Default Changelist" comment="" />
+      <created>1602095891618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602095891618</updated>
+      <workItem from="1602095892692" duration="233000" />
+      <workItem from="1602096155107" duration="1978000" />
+      <workItem from="1602612791267" duration="3276000" />
+      <workItem from="1602666334921" duration="2748000" />
+      <workItem from="1603021323841" duration="3991000" />
+      <workItem from="1603033356726" duration="3110000" />
+      <workItem from="1603117614487" duration="1865000" />
+      <workItem from="1603316676992" duration="1000" />
+      <workItem from="1603316691704" duration="3509000" />
+      <workItem from="1603375986812" duration="12915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1678" y="573" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603383745078">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1678" y="573" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603383745078" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1603391534059">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603391534059" />
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1603117625357" />
+    <state width="1234" height="491" key="GridCell.Tab.0.bottom" timestamp="1603380578285">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578285" />
+    <state width="1234" height="491" key="GridCell.Tab.0.center" timestamp="1603380578285">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578285" />
+    <state width="1234" height="491" key="GridCell.Tab.0.left" timestamp="1603380578285">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578285" />
+    <state width="1234" height="491" key="GridCell.Tab.0.right" timestamp="1603380578285">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578285" />
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom" timestamp="1603380578286">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578286" />
+    <state width="1234" height="491" key="GridCell.Tab.1.center" timestamp="1603380578286">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578286" />
+    <state width="1234" height="491" key="GridCell.Tab.1.left" timestamp="1603380578286">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578286" />
+    <state width="1234" height="491" key="GridCell.Tab.1.right" timestamp="1603380578286">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578286" />
+    <state width="1234" height="491" key="GridCell.Tab.2.bottom" timestamp="1603380578287">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578287" />
+    <state width="1234" height="491" key="GridCell.Tab.2.center" timestamp="1603380578287">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578287" />
+    <state width="1234" height="491" key="GridCell.Tab.2.left" timestamp="1603380578287">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578287" />
+    <state width="1234" height="491" key="GridCell.Tab.2.right" timestamp="1603380578287">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603380578287" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1602612999873">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1602612999873" />
+    <state x="1512" y="433" key="Vcs.Push.Dialog.v2" timestamp="1603392292591">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="433" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1603392292591" />
+  </component>
+</project>

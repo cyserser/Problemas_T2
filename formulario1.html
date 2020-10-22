@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script language="JavaScript" src="formulario1.js">
+
+</script>
+
+<form id="form1" name="form1" method="get" action="">
+
+    <script language="JavaScript" src="formulario1.js"></script>
+
+    <p><label>Nombre</label> <input type="text" size="15" name="name"></p>
+
+    <p><label>Fecha de nacimiento</label> <input id="date" type="date" size="15" name="date" value="2004-10-22"></p>
+
+    <p><label>Email</label> <input type="email" size="15" name="email"></p>
+
+    <p><label>Contraseña</label> <input type="password" value="1234567890" size="15" name="password" minlength="8" maxlength="14" pattern="[A-Za-z0-9]+" required></p> <!-- el + para se pueda introducir todos los caracteres-->
+
+    <p><label>Repita contraseña</label> <input type="password" value="123456789" size="15" name="password2"></p>
+
+    <input type="submit" value="Enviar"> <input type="reset" value="Borrar">
+
+
+</form>
+</body>
+</html>

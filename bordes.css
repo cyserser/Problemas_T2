@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkred;
+    margin-left: 20px;
+}
+
+aside {
+    border: solid 5pt blue; margin: 30px; padding: 0;
+}
+
+footer {
+    text-align: center;
+}
