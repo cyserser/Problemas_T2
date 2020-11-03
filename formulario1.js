@@ -1,6 +1,6 @@
 
 
-    document.getElementById("form1").onsubmit = function (e) {
+   /* document.getElementById("form1").onsubmit = function (e) {
     var x = document.getElementById("date").value;
 
     var dateObj = new Date();
@@ -31,12 +31,11 @@
     } else {
 
         e.preventDefault();
+
         window.alert("No tienes más de 16 años");
 
     }
 
 
-}
-function laalal(){
+}*/
 
-}
