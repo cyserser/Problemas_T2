@@ -12,8 +12,6 @@ if (isset($_GET["nombre"],$_GET["date"],$_GET["email"],$_GET["password"],$_GET["
     $password = $_GET["password"];
     $password2 = $_GET["password2"];
 
-
-
     if($password2==$password){
         echo "<h2> Los datos recibidos son los siguientes: </h2>";
         echo "Nombre: ".$nombre."<br>";
