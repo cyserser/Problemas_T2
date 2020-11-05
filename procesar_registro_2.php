@@ -1,9 +1,29 @@
 <?php
-echo ("Hello\n");
-$var1 = 43;
-echo is_string($var1 . "\n");
 
-echo $_SERVER ['HTTP_USER_AGENT'];
+session_start();
 
-echo $_SERVER ['REMOTE_ADDR'];
+$expiryTime = time()+60*60*24;
+
+$name = "Email";
+
+$email = $_GET["email"];
+
+setcookie($name,$email,$expiryTime);
+
+if(!isset($_COOKIE['Email'])){
+    echo "Ya has estado por aqui amigo";
+
+} else {
+    echo "El email obtenida del cookie es: ";
+    echo $_COOKIE['Email'];
+}
+
+if(isset($_SESSION['Email'])){
+
+    echo "\nUser is logged in";
+
+} else {
+
+    echo "\nNo one is logged in";
+}
 

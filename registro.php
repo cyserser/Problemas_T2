@@ -1,6 +1,5 @@
 <?php
 
-
 class registro {
 
     private $nombre;

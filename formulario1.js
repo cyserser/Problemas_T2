@@ -23,17 +23,12 @@
     monthDiff = thisMonth - bornMonth;
     dayDiff = thisDay - bornDay;
 
-
     if (yearDiff >= 16 && monthDiff >= 0 && dayDiff >= 0) {
-
         window.alert("Tienes más de 16 años");
-
     } else {
-
         e.preventDefault();
 
         window.alert("No tienes más de 16 años");
-
     }
 
 
