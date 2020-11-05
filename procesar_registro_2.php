@@ -10,6 +10,7 @@ $email = $_GET["email"];
 
 setcookie($name,$email,$expiryTime);
 
+
 if(!isset($_COOKIE['Email'])){
     echo "Ya has estado por aqui amigo";
 
